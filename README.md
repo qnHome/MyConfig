@@ -15,4 +15,4 @@ wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - 
 reboot
 ```
 # 更改host加速gitHub clone速度
-参考`https://www.jianshu.com/p/bf9228bc435b`
+参考(https://www.jianshu.com/p/bf9228bc435b)
